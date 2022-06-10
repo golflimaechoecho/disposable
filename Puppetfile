@@ -16,3 +16,7 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 mod 'puppetlabs-pe_status_check', '1.2.0'
+mod 'puppetlabs-data_entitlement', '0.1.2'
+mod 'puppetlabs-docker', '4.4.0'
+mod 'puppetlabs-inifile', '4.4.0'
+mod 'puppetlabs-stdlib', '7.1.0'
